@@ -1,0 +1,8 @@
+C:\CIDM4390\InClass01242018\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.deps.json
+C:\CIDM4390\InClass01242018\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.dll
+C:\CIDM4390\InClass01242018\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.pdb
+C:\CIDM4390\InClass01242018\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\CIDM4390\InClass01242018\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\CIDM4390\InClass01242018\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfo.cs
+C:\CIDM4390\InClass01242018\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.dll
+C:\CIDM4390\InClass01242018\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.pdb

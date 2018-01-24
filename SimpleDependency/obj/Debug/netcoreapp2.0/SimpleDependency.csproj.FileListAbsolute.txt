@@ -1,0 +1,12 @@
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.deps.json
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.runtimeconfig.json
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.runtimeconfig.dev.json
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.dll
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.pdb
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\MessagePrinter.dll
+C:\CIDM4390\InClass01242018\SimpleDependency\bin\Debug\netcoreapp2.0\MessagePrinter.pdb
+C:\CIDM4390\InClass01242018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.csproj.CoreCompileInputs.cache
+C:\CIDM4390\InClass01242018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.AssemblyInfoInputs.cache
+C:\CIDM4390\InClass01242018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.AssemblyInfo.cs
+C:\CIDM4390\InClass01242018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.dll
+C:\CIDM4390\InClass01242018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.pdb
